@@ -1,0 +1,14 @@
+html {
+    background-color: blueviolet
+}
+
+h1 {
+    font-size: 75px; text-decoration: underline; color: whitesmoke;
+}
+
+p {color:aqua;}
+
+span {
+    color: wheat;
+    font-weight: bold;
+}
